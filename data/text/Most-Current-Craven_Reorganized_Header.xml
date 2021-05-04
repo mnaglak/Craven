@@ -628,6 +628,8 @@
 
    <text>
       <body>
+
+        <pb n="1"/>
          <div>
             <opener> Weather - moderate, partly cloudy, slight fall of snow at <time when="19:30:00"
                   >7:30 P. M.</time>
@@ -681,6 +683,7 @@
          <div type="header" xml:id="BC2004_121_ref_5_007">
             <p>Weather - A. M. Overcast &amp; looked like snow.</p>
             <p>P. M. Very wet snow. Large flakes, bad walking.</p>
+
             <pb n="3"/>
             <p><date when="1917-01-03">Wednesday Jan 3</date></p>
          </div>
